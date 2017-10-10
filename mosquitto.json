@@ -1,0 +1,13 @@
+{
+    "homepage": "https://mosquitto.org/",
+    "version": "1.4.14",
+    "license": "https://github.com/eclipse/mosquitto/blob/master/LICENSE.txt",
+    "url": 
+"http://www.eclipse.org/downloads/download.php?file=/mosquitto/binary/win32/mosquitto-1.4.14-install-win32.exe&r=1#mosquitto-1.4.14-install-win32.7z",
+    "bin": [
+        "mosquitto.exe",
+        "mosquitto_passwd.exe",
+        "mosquitto_pub.exe",
+        "mosquitto_sub.exe"
+    ],
+}
