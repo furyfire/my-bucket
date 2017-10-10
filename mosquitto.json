@@ -9,5 +9,5 @@
         "mosquitto_passwd.exe",
         "mosquitto_pub.exe",
         "mosquitto_sub.exe"
-    ],
+    ]
 }
